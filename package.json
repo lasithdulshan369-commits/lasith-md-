@@ -4,7 +4,7 @@
   "description": "aquabot happy for whatsapp.",
   "main": "/aquabot/bot.js",
   "scripts": {
-    "start": "supervisor -s bot.js"
+    "start": "node bot.js"
   },
   "repository": {
     "type": "git",
